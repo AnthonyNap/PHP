@@ -1,5 +1,5 @@
 <?php
-// Début du script PHP
+// Début du script PHP...
 
 // Définir les limites de longueur pour le message
 $longueurMin = 10;

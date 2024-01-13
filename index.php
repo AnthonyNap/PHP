@@ -7,7 +7,7 @@
     <h1>Messagerie</h1>
 
     <?php
-    // Vérification de la présence d'un paramètre d'erreur dans l'URL...
+    // Vérification de la présence d'un paramètre d'erreur dans l'URL
     if(isset($_GET['error'])) {
         $error = $_GET['error'];
 
